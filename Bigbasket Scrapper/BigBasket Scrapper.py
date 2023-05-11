@@ -46,7 +46,7 @@ class BigBasketScraper:
 
                 # Find the products and loop through each product
                 products_html = soup.find_all('div', {'class': 'col-sm-12 col-xs-5 prod-view ng-scope'})
-                print(f"Found {len(products_html)} products in {super_category} > {category_name} > {sub_category}")
+
                 for product_html in products_html[:10]:
                     a_tag = product_html.find('a')
                     href = a_tag.get('href')
