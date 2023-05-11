@@ -1,4 +1,4 @@
-#**BigBasket Scraper**
+# **BigBasket Scraper**
 
 
 This is a Python script that scrapes the BigBasket website and saves the details of the products in a Google Sheet. The script uses the following libraries:
