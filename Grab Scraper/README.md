@@ -1,4 +1,4 @@
-**Scrapper for GrabFood website**
+# **Scrapper for GrabFood website**
 
 This Python code is a scrapper for GrabFood website that uses Selenium with Chrome driver to scrape data. The scrapper retrieves restaurant data such as restaurant ID, name, and location.
 
