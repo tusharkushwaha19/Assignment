@@ -68,4 +68,3 @@ This script is used to scrape product data from the BigBasket website. It utiliz
 
 .json` file.
 - The `self.sheet.share()` method is used to generate a shareable link for the Google Sheet. You can remove or modify this line if you don't need to share the sheet.
-- Review the BigBasket website's terms of service to ensure compliance with scraping activities.
