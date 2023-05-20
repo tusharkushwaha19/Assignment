@@ -27,7 +27,7 @@ Create an instance of the BigBasketScraper class and call the scrape method with
 
 
 
-##To obtain the JSON credentials(creds.json) for the Google Sheets API, you need to follow these steps:
+# **To obtain the JSON credentials(creds.json) for the Google Sheets API, you need to follow these steps:**
 
 Go to the Google Cloud Console.
 
