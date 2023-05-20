@@ -55,5 +55,4 @@ In the "Keys" tab, click on the "Add Key" button and select "Create new key" fro
 
 Choose the JSON key type and click on the "Create" button. This will download a JSON file containing your service account credentials.
 
-Keep the downloaded JSON file in a secure location as it contains sensitive information.
-
+Keep the downloaded JSON file in a folder where you save this script
