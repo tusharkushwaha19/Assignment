@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "quick-nexus-345713",
-  "private_key_id": "4cf7389410a4eae87ca92410be822448cc825010",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCg6/q1Ny4oxtWb\nkUKrOEdLczlgPMw7BQ7GlakkScX9ycPpF8dM18t4KA42WP8csNi5gRF1qOepbsag\nJAXPWM8IkY05qO2VWzvDA7nlU/QGaFzaLCng6qbIHIFxKePc7lVp8aTz9bvYIhPu\np8M+H864VMxsK+BvatiREdf3qrhB7tSo7ydoSprR0ETkhwoaHKZmw32f3dI6Q4k/\nrqZe0MXxO6LfQEJW/nEF+CI5ukfpYTC5OyskRp8CR+a6613+6Cox259LmjSSFiHO\nFOQwklcnmTH+JLIpEUuX59mgEpjTnn6pRfeWeZthX2cDP5rgGZAV6sy71qLergj4\njNad5kSRAgMBAAECggEADMHYbMBUoPfuXDheVCuQf1tBm68GM9GZU8XulEli8FUr\n+lEfxChBYaOvSMCybMhaTg5831qGDwkQpwZkDYWJWDENxJnvR81lRfcIKDWJHW7t\nmYAxy7pegXO9EUcUYOHmFJGLFaoP+7jr4pobINQts7BJSnQKBVsvkwSanfBDTjqs\nIb86XZesrgvdHHiFWDNkRw6q2NZA/Euj+D6QzVo8RBfIQSnLuHN3MMu7qk8Uzmpx\neWHMZVORg5Xp+024Q00KfLz+hd9Ge6QcM2Kna7K5mdnM6IZjU6r45LhrwDoixJbL\ny9sZ7OYfalGHT1/YStowU8Qq+INgzFO+xBo4a2zf1wKBgQDPjuMHDuAD63t58D8h\nR5hHzfw2PAASshtwlfM/H93+wuyGlzyH4rm8bnDXlfUImjClxACI0zbqVqpHfwV/\nqbwp2aQ2mpGN3X5nHf0Ip8m/aFrtBA/cq0wxY2H3pIMVExaCO3trdZEJB04EQXC8\n06mkkzlEuXtUzikRMoGkJDMVEwKBgQDGeq3vSCTg+K70kuKvtBqOUhLkxOe8Gtyr\nmhxSYfSLyk5nTYGNwENxJftOxtD+SxAgVsCYQjtYX6oPazcRWrM+HqQxF9P8LJ49\nuxBNu5PIFJ1BfLDKpfyntXsLRDhGvZJW0D6Y11D3cGqKJ+tpwO02oUriEnOuEEuo\nhlvIYe+ISwKBgAUW5Nw8ciPGd22jBXlEbyh7lY6i5AGRWnjlRGSs3F2t2+zk8ngG\niDVlo+C1bZ+7YCwAZV71hugyHdTI+ZKKz/Faw9sO6TjIUJwosRawPpMx9ODQ866e\niKzBWhqfbxNqN2gUG0+kP10wT6ptDF2k9wjxDztvLOYEdB9W1LT4qkP/AoGAZRUb\nuk6SwaTFbbfVDUj7cVopVytVHf7MPfUJ0YcjxYHt9jyJ64hskJaYa6Fj1O6jsuSb\nx6+Li9GEyb9/1y3LNarjUkFha//JQ4Ueo4gRloexIyX+3+YzS7JojO9cfeKUQfRi\nvPKDwNEW4W+9PCnOZdE1Uve0xIR2E8kBu4btOAsCgYBXE5y4R8H/POdgRs5je15N\n6cQjUkG/W6uK5XAmOTX6c95WqtNNdCdFQpP9529GrS3XIVNnO4q2Hrkgu3WxpUTy\nWKljw36avUrR4mO+Lp0pfIVjrm72hdS06YjHU1yCTcLl5VDVW9DZ+Icd1EQzTH+g\n6RUkdObpeFSvPYJ6fPSb0Q==\n-----END PRIVATE KEY-----\n",
-  "client_email": "gs-807@quick-nexus-345713.iam.gserviceaccount.com",
-  "client_id": "111362053144783709553",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY-----\",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gs-807%40quick-nexus-345713.iam.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/",
   "universe_domain": "googleapis.com"
 }
