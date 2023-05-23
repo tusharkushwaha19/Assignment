@@ -57,7 +57,6 @@ This script is used to scrape restaurant data from the Grab Food website. It uti
 
 ## Notes
 
-- It's important to note that web scraping can be against the terms of service of some websites. Make sure to review the website's terms of service before scraping any data.
 - The script utilizes Selenium Wire, which is an extension of Selenium that allows capturing network requests made by the browser. This allows us to extract the required data from the website's API calls.
 - The script includes a scroll feature to load more data dynamically. Adjust the `SCROLL_PAUSE_TIME` value to control the wait time between each scroll. This value should be set according to the website's loading speed.
 - The script is specifically designed for the Grab Food website and may not work for other websites with different structures or APIs.
